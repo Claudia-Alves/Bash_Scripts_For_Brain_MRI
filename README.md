@@ -5,7 +5,7 @@
 ### Cláudia Alves, Victor Alves and Tiago Gil Oliveira
 - University of Minho, Braga, Portugal.
 
-This project is the result of Cláudia Alves (a807901@alunos.uminho.com), Victor Alves (valves@di.uminho.pt) and Tiago Gil Oliveira (tiago@med.uminho.pt) work, having been developed as part of Cláudia Alves' Master Thesis in Biomedical Engineering, Medical Informatics Branch from University of Minho.
+This project is the result of Cláudia Alves (a80790@alunos.uminho.com), Victor Alves (valves@di.uminho.pt) and Tiago Gil Oliveira (tiago@med.uminho.pt) work, having been developed as part of Cláudia Alves' Master Thesis in Biomedical Engineering, Medical Informatics Branch from University of Minho.
 
 ## Abstract
 
